@@ -1,0 +1,19 @@
+{
+  "name": "nut",
+  "version": "1.0.0",
+  "description": "常用工具包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aaronwkk/nut-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aaronwkk/nut-utils/issues"
+  },
+  "homepage": "https://github.com/Aaronwkk/nut-utils#readme"
+}

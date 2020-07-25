@@ -1,5 +1,5 @@
 {
-  "name": "nut",
+  "name": "nut-utils",
   "version": "1.0.0",
   "description": "常用工具包",
   "main": "index.js",
